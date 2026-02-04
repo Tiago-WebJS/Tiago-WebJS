@@ -5,22 +5,20 @@
 Tiago Machado — Based in Brasília, Brazil. I hold a Bachelor of Laws (LL.B.) from Centro Universitário UNICEPLAC and am currently pursuing a technical degree in Systems Analysis and Development at UNICEUB University. I am a technology enthusiast transitioning into software development, with the goal of sharing knowledge and learning something new every day in the programming world. I believe in continuous growth through curiosity and collaboration—always exploring, building, and contributing to the developer community.
 
 
-</a> 
+<a href="https://instagram.com/tiixst">
+   <img alt="Instagram" title="Me siga no Instagram" 
+        src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8B2252" />
+</a>
+
 <a href="https://github.com/Tiago-WebJS?tab=repositories&sort=stargazers">
-   <img 
-       alt="Total de estrelas" 
-       title="Total de estrelas GitHub" 
-       src="https://custom-icon-badges.demolab.com/github/stars/Tiago-WebJS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-   />
+   <img alt="Total de estrelas" title="Total de estrelas GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/stars/Tiago-WebJS?color=32CD32&style=for-the-badge&labelColor=228B22&logo=star&label=Estrelas&logoColor=white" />
 </a>
+
 <a href="https://github.com/Tiago-WebJS?tab=followers">
-   <img 
-       alt="Seguidores" 
-       title="Me siga no GitHub" 
-       src="https://custom-icon-badges.demolab.com/github/followers/Tiago-WebJS?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-   />
+   <img alt="Seguidores" title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/Tiago-WebJS?color=1E90FF&style=for-the-badge&labelColor=104E8B&logo=github&label=Seguidores&logoColor=white" />
 </a>
-</p>
 
 ---
 
