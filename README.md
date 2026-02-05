@@ -1,6 +1,6 @@
 # TiagoDev 🚀
 
-**`Desenvolvedor FullStack`**
+**`Front-End Programmer`**
 
 Tiago Machado — Based in Brasília, Brazil. I hold a Bachelor of Laws (LL.B.) from Centro Universitário UNICEPLAC and am currently pursuing a technical degree in Systems Analysis and Development at UNICEUB University. I am a technology enthusiast transitioning into software development, with the goal of sharing knowledge and learning something new every day in the programming world. I believe in continuous growth through curiosity and collaboration—always exploring, building, and contributing to the developer community.
 
